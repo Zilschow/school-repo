@@ -1,1 +1,1 @@
-# Projekt TableManager na przedmiot Programowanie Obiektowe
+# Projekt TableManager na przedmiot Programowanie Obiektowe.
